@@ -43,6 +43,10 @@ class MyHomePage extends StatelessWidget {
             icon: Icon(Icons.more_vert),
             onPressed: () {},
           ),
+          IconButton(
+            icon: Icon(Icons.more_vert),
+            onPressed: () {},
+          ),
         ],
         flexibleSpace: Icon(
           Icons.photo_camera,
