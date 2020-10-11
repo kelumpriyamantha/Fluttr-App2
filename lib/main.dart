@@ -46,8 +46,8 @@ class MyHomePage extends StatelessWidget {
         ],
         flexibleSpace: Icon(
           Icons.photo_camera,
-          size:75.0,
-          color: colors.white
+          size: 75.0,
+          color: Colors.white70,
         ),
       ),
     );
